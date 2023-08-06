@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darius0606
 - 👀 I’m interested in artificial intelligence, software development, web development and game development
-- 🌱 I’m currently learning Computer Science at Babeș-Bolyai University of Cluj-Napoca. ( https://www.cs.ubbcluj.ro/ )
+- 🌱 I’m currently learning Computer Science at Babeș-Bolyai University of Cluj-Napoca. (https://www.cs.ubbcluj.ro/)
 - 📫 How to reach me:
 - 📧 dariusandrey2003@gmail.com / lacatus.darius06@gmail.com
 <!---
